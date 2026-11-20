@@ -10,7 +10,7 @@ Hi I´m Leo!<br>Software engineering student at CETYS University (Grad.2028)<br>
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=lpiedras4&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lpiedras4&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![GitHub Stats](https://streak-stats.demolab.com?user=lpiedras4&theme=tokyonight&hide_border=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=lpiedras4&icon=0&color=0)](https://visitcount.itsvg.in)
 
